@@ -1,4 +1,4 @@
-# Navbar Resopnsivo con React y Styled-Components
+# Navbar Responsivo con React y Styled-Components
 
 ### `npm install`
 
